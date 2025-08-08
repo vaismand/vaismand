@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **creative and detail-oriented Front-End Web
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript, CSS3, HTML5, C, C++, PHP
+- **Languages & Frameworks:** JavaScript, Typescript, TailwindCSS, CSS3, HTML5, C, C++, PHP
 - **CMS:** WordPress (custom themes, Elementor, Divi)
 - **Tools:** Git, GitHub, Figma, Adobe XD
 - **Other:** SEO optimization, website speed tuning, UX/UI adjustments
