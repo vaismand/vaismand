@@ -24,7 +24,7 @@ I'm a **software engineer** based in Vienna, Austria, working on **flight-contro
 
 ## 👨‍💻 About Me
 
-- 📱 Built and published **RaveVienna**, an Android app for Vienna's electronic music scene, available on [Google Play](https://play.google.com/store/apps/details?id=com.dvaisman.ravevienna)
+- 📱 Built and published [RaveVienna](https://github.com/vaismand/ravevienna-showcase), an Android app for Vienna's electronic music scene, available on [Google Play](https://play.google.com/store/apps/details?id=com.dvaisman.ravevienna)
 - 🚀 **Top Rated** on [Upwork](https://www.upwork.com/freelancers/~0161765a02e67ee43b) with a 100% Job Success Score
 - 🎓 Completed the Common Core at [42 Vienna](https://42vienna.com): C/C++ systems projects including an IRC server, a Unix shell and a ray-casting engine
 - 🌐 Portfolio: [vaismand.com](https://vaismand.com)
