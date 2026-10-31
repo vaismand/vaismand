@@ -1,24 +1,33 @@
 # Hi, I'm David 👋
 
-Welcome to my GitHub profile! I'm a **creative and detail-oriented Front-End Web Developer** based in Vienna, Austria. With over **5 years of freelance experience**, I specialize in building responsive, SEO-optimized websites using **HTML, CSS, JavaScript, and WordPress**.
+I'm a **software engineer** based in Vienna, Austria, working on **flight-control software for FPV drones** and modern front-end applications. Since 2019 I've delivered fast, responsive web projects for international clients, and today my focus is drone firmware and desktop tooling.
+
+---
+
+## 🛩️ What I'm Working On
+
+- **INAV firmware:** extended the open-source INAV flight-control firmware with support for the **ARK Flow optical-flow sensor**
+- **Drone configurator:** building a desktop configurator app (Electron, React, TypeScript) for drone setup: sensor calibration, receiver and failsafe configuration, motor testing, firmware flashing and backups
+- **Flight software:** working with the **PX4** and **INAV** open-source autopilot ecosystems
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages & Frameworks:** JavaScript, Typescript, TailwindCSS, CSS3, HTML5, C, C++, PHP
-- **CMS:** WordPress (custom themes, Elementor, Divi)
-- **Tools:** Git, GitHub, Figma, Adobe XD
-- **Other:** SEO optimization, website speed tuning, UX/UI adjustments
+- **Languages & Frameworks:** TypeScript, JavaScript, React, Electron, C, C++, TailwindCSS, HTML5, CSS3, PHP
+- **Flight software:** INAV, PX4
+- **CMS:** WordPress (custom themes, Elementor, Divi), WooCommerce
+- **Tools:** Git, GitHub, Linux/Unix, Figma
+- **Other:** SEO, Core Web Vitals and performance tuning, UX/UI implementation
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔧 I help businesses build modern websites that are fast, secure, and user-friendly
-- 🚀 Freelancing on [Upwork](https://www.upwork.com/freelancers/~0161765a02e67ee43b) as a **Top-Rated Developer**
-- 🎓 Studying Computer Science at [42Vienna](https://42vienna.com)
-- 🌐 Visit my portfolio: [vaismand.com](https://vaismand.com)
+- 📱 Built and published **RaveVienna**, an Android app for Vienna's electronic music scene, available on [Google Play](https://play.google.com/store/apps/details?id=com.dvaisman.ravevienna)
+- 🚀 **Top Rated** on [Upwork](https://www.upwork.com/freelancers/~0161765a02e67ee43b) with a 100% Job Success Score
+- 🎓 Completed the Common Core at [42 Vienna](https://42vienna.com): C/C++ systems projects including an IRC server, a Unix shell and a ray-casting engine
+- 🌐 Portfolio: [vaismand.com](https://vaismand.com)
 
 ---
 
@@ -31,6 +40,5 @@ Welcome to my GitHub profile! I'm a **creative and detail-oriented Front-End Web
 
 ## ⚡ Fun Facts
 
-- I speak **five languages** 🇺🇸 🇺🇦 🇷🇺 🇮🇱 🇩🇪
-- I previously worked in **aviation security** before switching full-time to tech
-- I love tackling challenging bugs and continuously learning new tools
+- I speak **five languages** 🇬🇧 🇺🇦 🇷🇺 🇮🇱 🇩🇪
+- I spent seven years in **aviation security** before moving fully into software
